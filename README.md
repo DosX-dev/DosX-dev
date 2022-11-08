@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on _Kay Software_
 - 🌱 I’m currently learning _polymorphism_
-- 👯 I’m looking to collaborate on _horsicq_
+- 👯 I’m looking to collaborate with _horsicq_
 - 💬 Ask me about _software engine or viruses_
 - 📫 How to reach me: _@DosX_Plus (Telegram)_
 - ⚡ Fun fact: _IT as the meaning of life_
