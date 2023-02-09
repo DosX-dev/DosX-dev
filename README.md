@@ -4,7 +4,6 @@
 <img src="https://github.com/DosX-dev/DosX-dev/blob/main/github-header-image.png" alt="">
 <br><br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=435&lines=Software+development;Information+Security;Frontend+development;.NET+and+Native+development" alt="">
-<hr>
 <h2>About me</h2>
 </div>
 
