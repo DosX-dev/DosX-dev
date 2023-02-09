@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://github.com/DosX-dev/DosX-dev/blob/main/github-header-image.png" alt="">
 <br><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=435&lines=Software+development;Information+Security;Frontend+development;.NET+and+Native+development" alt="">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=435&lines=Software+development;Information+Security;Frontend+development;.NET+development;Native development" alt="">
 <hr>
 <h1>About me</h1>
 </div>
