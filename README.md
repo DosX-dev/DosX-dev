@@ -1,8 +1,7 @@
-![](https://github.com/DosX-dev/DosX-dev/blob/main/github-header-image.png)
+<img align="center" src="https://github.com/DosX-dev/DosX-dev/blob/main/github-header-image.png" alt="" />
 
-<h1 align="center">
-<a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=435&lines=Software+development;Information+Security;Frontend+development;.NET+and+Native+development" alt="" /></a>
-</h1>
+
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=435&lines=Software+development;Information+Security;Frontend+development;.NET+and+Native+development" alt="" />
 <h3 align="center">About me</h3>
 
 **Hello!** I'm a programmer from Russia.
