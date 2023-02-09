@@ -1,7 +1,6 @@
 <h1 align="center">
-<a href="https://kay-software.ru/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&width=435&lines=Hi+there%2C+I'm+DosX-dev!" alt="Typing SVG" /></a>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">A programmer from Russia 🇷🇺</h3>
+<a href="https://kay-software.ru/"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&pause=1000&width=435&lines=Hi+there%2C+I'm+DosX-dev!" alt="Typing SVG" /></a></h1>
+<h3 align="center">A programmer from Russia</h3>
 
 **Hello!** For a long time I was engaged in the development of conventional software for Windows and had about 20 active projects with an audience. At the moment, I have expanded my skills and am already developing neural networks, websites, server software. One of the main distinguishing skills is the reverse and protection of software from reverse engineering.
 
