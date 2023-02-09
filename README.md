@@ -1,9 +1,8 @@
 <div align="center">
-  <img align="center" src="https://github.com/DosX-dev/DosX-dev/blob/main/github-header-image.png" alt="" />
-
-
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=435&lines=Software+development;Information+Security;Frontend+development;.NET+and+Native+development" alt="" />
-<h3 align="center">About me</h3>
+<img src="https://github.com/DosX-dev/DosX-dev/blob/main/github-header-image.png" alt="">
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=435&lines=Software+development;Information+Security;Frontend+development;.NET+and+Native+development" alt="">
+<h3>About me</h3>
 </div>
 
 **Hello!** I'm a programmer from Russia.
