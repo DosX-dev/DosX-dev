@@ -14,8 +14,8 @@ For a long time I was engaged in the development of conventional software for Wi
 <br>
 
 <div align="center">
-![stars](https://img.shields.io/github/stars/DosX-dev?label=Stars)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=DosX-dev)
+<img alt="Stars" src="https://img.shields.io/github/stars/DosX-dev?label=Stars">
+<img alt="Forks" src="https://visitor-badge.laobi.icu/badge?page_id=DosX-dev">
 <table>
   <thead align="center">
     <tr border: none;>
@@ -27,13 +27,13 @@ For a long time I was engaged in the development of conventional software for Wi
   <tbody>
     <tr>
       <td><a href="https://github.com/DosX-dev/FindEXEC"><b>FindEXEC</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DosX-dev/FindEXEC?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DosX-dev/FindEXEC?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DosX-dev/FindEXEC?style=flat-square&labelColor=343b41"></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DosX-dev/FindEXEC?style=flat-square&labelColor=343b41"></td>
     </tr>
     <tr>
       <td><a href="https://github.com/DosX-dev/x16Calc"><b>x16Calc</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DosX-dev/x16Calc?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DosX-dev/x16Calc?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DosX-dev/x16Calc?style=flat-square&labelColor=343b41"></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DosX-dev/x16Calc?style=flat-square&labelColor=343b41"></td>
     </tr>
   </tbody>
 </table>
