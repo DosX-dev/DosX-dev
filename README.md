@@ -13,11 +13,9 @@ For a long time I was engaged in the development of conventional software for Wi
 
 <br>
 
+<div align="center">
 ![stars](https://img.shields.io/github/stars/DosX-dev?label=Stars)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DosX-dev)
-
-
-<div align="center">
 <table>
   <thead align="center">
     <tr border: none;>
