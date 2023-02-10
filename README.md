@@ -40,6 +40,6 @@ For a long time I was engaged in the development of conventional software for Wi
   </tbody>
 </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DosX-dev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DosX-dev)
 
 </div>
