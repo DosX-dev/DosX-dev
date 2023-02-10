@@ -38,4 +38,8 @@ For a long time I was engaged in the development of conventional software for Wi
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DosX-dev/x16Calc?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
-</table></div>
+</table>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DosX-dev&layout=compact)
+
+</div>
