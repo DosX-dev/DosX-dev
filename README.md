@@ -14,5 +14,24 @@ For a long time I was engaged in the development of conventional software for Wi
 <br>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DosX-dev&layout=compact" alt="">
-</div>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🤝 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/DosX-dev/FindEXEC"><b>FindEXEC</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DosX-dev/FindEXEC?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DosX-dev/FindEXEC?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/DosX-dev/x16Calc"><b>x16Calc</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DosX-dev/x16Calc?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DosX-dev/x16Calc?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table></div>
