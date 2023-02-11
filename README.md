@@ -38,6 +38,6 @@ For a long time I was engaged in the development of conventional software for Wi
   </tbody>
 </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DosX-dev)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DosX-dev&langs_count=8&theme=react)
 
 </div>
