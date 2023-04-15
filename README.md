@@ -22,7 +22,7 @@ For a long time I was engaged in the development of conventional software for Wi
       <td><b>📘 Project</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>🤝 Forks</b></td>
-      <td><b>🥃 Open Source</b></td>
+      <td><b>👨‍💻 Is open</b></td>
     </tr>
   </thead>
   <tbody>
