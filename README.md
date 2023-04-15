@@ -22,6 +22,7 @@ For a long time I was engaged in the development of conventional software for Wi
       <td><b>📘 Project</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>🤝 Forks</b></td>
+      <td><b>🥃 Open Source</b></td>
     </tr>
   </thead>
   <tbody>
@@ -29,16 +30,19 @@ For a long time I was engaged in the development of conventional software for Wi
       <td><a href="https://github.com/DosX-dev/FindEXEC"><b>FindEXEC</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DosX-dev/FindEXEC?style=flat-square&labelColor=343b41"></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DosX-dev/FindEXEC?style=flat-square&labelColor=343b41"></td>
+      <td>✅</td>
     </tr>
     <tr>
       <td><a href="https://github.com/DosX-dev/x16Calc"><b>x16Calc</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DosX-dev/x16Calc?style=flat-square&labelColor=343b41"></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DosX-dev/x16Calc?style=flat-square&labelColor=343b41"></td>
+      <td>✅</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/DosX-dev/x16Calc"><b>x16Calc</b></a></td>
+      <td><a href="https://github.com/DosX-dev/x16Calc"><b>ASM Guard</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DosX-dev/ASM-Guard?style=flat-square&labelColor=343b41"></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DosX-dev/ASM-Guard?style=flat-square&labelColor=343b41"></td>
+      <td>❌</td>
     </tr>
   </tbody>
 </table>
