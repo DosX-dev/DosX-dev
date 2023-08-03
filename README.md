@@ -51,6 +51,12 @@ For a long time I was engaged in the development of conventional software for Wi
       <td>✅</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/DosX-dev/braux"><b>braux</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DosX-dev/braux?style=flat-square&labelColor=343b41"></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DosX-dev/braux?style=flat-square&labelColor=343b41"></td>
+      <td>✅</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/DosX-dev/ASM-Guard"><b>ASM Guard</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DosX-dev/ASM-Guard?style=flat-square&labelColor=343b41"></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DosX-dev/ASM-Guard?style=flat-square&labelColor=343b41"></td>
