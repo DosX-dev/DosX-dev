@@ -45,7 +45,7 @@ For a long time I was engaged in the development of conventional software for Wi
       <td>✅</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/DosX-dev/DotNET_XorCryptor"><b>NET-MalwareCryptor</b></a></td>
+      <td><a href="https://github.com/DosX-dev/DotNET_XorCryptor"><b>XorCryptor (XorPack)</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DosX-dev/DotNET_XorCryptor?style=flat-square&labelColor=343b41"></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DosX-dev/DotNET_XorCryptor?style=flat-square&labelColor=343b41"></td>
       <td>✅</td>
