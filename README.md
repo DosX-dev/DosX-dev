@@ -8,7 +8,7 @@
 <h1>About me</h1>
 </div>
 
-### Contact me: collab@kay-software.ru | [@DosX_exe](https://DosX_dev.t.me/)
+### Contact me: collab@kay-software.ru | [@DosX_dev](https://DosX_dev.t.me/)
 
 **Hello!** I'm a programmer from Russia.
 For a long time I was engaged in the development of conventional software for Windows and had about 20 active projects with an audience. At the moment, I have expanded my skills and am already developing neural networks, websites, server software. One of the main distinguishing skills is the reverse and protection of software from reverse engineering.
