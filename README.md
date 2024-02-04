@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://github.com/DosX-dev/DosX-dev/blob/main/animated.gif" alt="">
 <br><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&color=05C864&center=true&multiline=true&repeat=false&random=false&width=435&lines=Have+you+already+looked+my+projects%3F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=200&color=08C4DF&center=true&multiline=true&repeat=false&random=false&width=435&lines=%23include+%3Cabout.h%3E" alt="Typing SVG" />
 <hr>
 <h1>About me</h1>
 </div>
