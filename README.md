@@ -6,6 +6,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=6000&pause=200&color=08C4DF&center=true&multiline=true&repeat=false&random=false&width=435&lines=%23include+%3Cabout.h%3E;%23include+%3Ccoffee.h%3E" alt="Typing SVG" />
 </div>
 
+<hr>
+
 ### Contact me: collab@kay-software.ru | [@DosX_dev](https://DosX_dev.t.me/)
 
 **Hello,** I'm DosX! (~white hat [h/cr]acker)
