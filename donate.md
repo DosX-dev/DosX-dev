@@ -1,4 +1,4 @@
-``` 🎁💝 Donate
+# 🎁💝 Donate
 
 Bitcoin:
 ```BTC
