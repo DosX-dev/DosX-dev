@@ -121,6 +121,6 @@ For a long time I was engaged in the development of conventional software for Wi
   </tbody>
 </table>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DosX-dev&langs_count=8&theme=react)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DosX-dev&langs_count=8&theme=react&layout=compact)
 
 </div>
