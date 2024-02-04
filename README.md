@@ -15,8 +15,8 @@ For a long time I was engaged in the development of conventional software for Wi
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DosX-dev&langs_count=8&theme=react&layout=compact)
 <div align="center">
+<img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DosX-dev&langs_count=8&theme=react&layout=compact">
 <img alt="Stars" src="https://img.shields.io/github/stars/DosX-dev?label=Stars">
 <img alt="Forks" src="https://visitor-badge.laobi.icu/badge?page_id=DosX-dev">
 <table>
