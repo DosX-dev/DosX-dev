@@ -121,7 +121,7 @@ For a long time I was engaged in the development of conventional software for Wi
       <td>✅</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/horsicq/Detect-It-Easy/blob/master/db/PE/__GenericHeuristicAnalysis_By_DosX.7.sg"><b>Generic Heur Analysis in DIE</b></a></td>
+      <td><a href="https://github.com/horsicq/Detect-It-Easy/blob/master/db/PE/__GenericHeuristicAnalysis_By_DosX.7.sg"><b>Heuristic Analysis in DIE</b></a></td>
       <td>-</td>
       <td>-</td>
       <td>✅</td>
