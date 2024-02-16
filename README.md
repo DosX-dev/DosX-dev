@@ -126,6 +126,12 @@ For a long time I was engaged in the development of conventional software for Wi
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DosX-dev/ASM-Guard?style=flat-square&labelColor=343b41"></td>
       <td>❌</td>
     </tr>
+    <tr>
+      <td><a href="">Heur in DIE</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>❌</td>
+    </tr>
   </tbody>
 </table>
 </div>
