@@ -109,6 +109,12 @@ For a long time I was engaged in the development of conventional software for Wi
       <td>✅</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/DosX-dev/UPX-Patcher"><b>UPX-Patcher</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DosX-dev/UPX-Patcher?style=flat-square&labelColor=343b41"></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DosX-dev/UPX-Patcher?style=flat-square&labelColor=343b41"></td>
+      <td>✅</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/DosX-dev/PassByCode"><b>PassByCode</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DosX-dev/PassByCode?style=flat-square&labelColor=343b41"></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DosX-dev/PassByCode?style=flat-square&labelColor=343b41"></td>
