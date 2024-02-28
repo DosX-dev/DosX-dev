@@ -73,6 +73,12 @@ For a long time I was engaged in the development of conventional software for Wi
       <td>✅</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/DosX-dev/TinySnake-game"><b>Native Clicker game</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DosX-dev/TinySnake-game?style=flat-square&labelColor=343b41"></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DosX-dev/TinySnake-game?style=flat-square&labelColor=343b41"></td>
+      <td>✅</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/DosX-dev/MemCleaner"><b>MemCleaner</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DosX-dev/MemCleaner?style=flat-square&labelColor=343b41"></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DosX-dev/MemCleaner?style=flat-square&labelColor=343b41"></td>
