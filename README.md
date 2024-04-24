@@ -13,15 +13,18 @@
 **Hello,** I'm DosX! (~white hat [h/cr]acker)
 For a long time I was engaged in the development of conventional software for Windows. At the moment, I have expanded my skills and am already developing neural networks, websites, server software. One of the main distinguishing skills is the reverse and protection of software from reverse engineering.
 
+ * [My PC characteristics](my-pc.md)
+
 <br>
 
 <div align="center">
-<img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DosX-dev&langs_count=12&theme=react&layout=compact">
-<br>
 <img alt="Stars" src="https://img.shields.io/github/stars/DosX-dev?label=Stars">
 <img alt="Forks" src="https://visitor-badge.laobi.icu/badge?page_id=DosX-dev">
+
+<img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DosX-dev&langs_count=8&theme=react&layout=compact">
+<br>
 <table>
-  <thead align="center">
+  <thead>
     <tr border: none;>
       <td><b>📘 Project</b></td>
       <td><b>⭐ Stars</b></td>
