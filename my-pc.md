@@ -1,4 +1,4 @@
-# 🖥 My working setup
+# 🖥 My workstation
 
 | Type             | Characteristics |
 |------------------|-----------------|
