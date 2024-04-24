@@ -10,13 +10,12 @@
 
 ### Contact me: collab@kay-software.ru | [@DosX_dev](https://DosX_dev.t.me/)
 
-**Hello,** I'm DosX! (~white hat [h/cr]acker)
-For a long time I was engaged in the development of conventional software for Windows. At the moment, I have expanded my skills and am already developing neural networks, websites, server software. One of the main distinguishing skills is the reverse and protection of software from reverse engineering.
+Hi all, I'm **DosX**! 👋 (~white hat [**h**/**cr**]acker)
+For a long time I was engaged in the development of conventional software for Windows. At the moment, I have expanded my skills and am already developing websites, desktop programs, server software and various protections for them. **I love my job! ❤️** You can view my portfolio below and take a first-hand look at each of the publicly released projects.
 
- * [My PC characteristics](my-pc.md)
+ * 🖥 [My PC characteristics](my-pc.md)
 
 <br>
-
 <div align="center">
 <img alt="Stars" src="https://img.shields.io/github/stars/DosX-dev?label=Stars">
 <img alt="Forks" src="https://visitor-badge.laobi.icu/badge?page_id=DosX-dev">
