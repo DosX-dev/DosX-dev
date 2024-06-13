@@ -87,6 +87,12 @@ For a long time I was engaged in the development of conventional software for Wi
       <td>✅</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/DosX-dev/JustMove-game"><b>JustMove game</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DosX-dev/JustMove-game?style=flat-square&labelColor=343b41"></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DosX-dev/JustMove-game?style=flat-square&labelColor=343b41"></td>
+      <td>✅</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/DosX-dev/MemCleaner"><b>MemCleaner</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DosX-dev/MemCleaner?style=flat-square&labelColor=343b41"></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DosX-dev/MemCleaner?style=flat-square&labelColor=343b41"></td>
