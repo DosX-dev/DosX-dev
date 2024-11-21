@@ -26,7 +26,7 @@ For a long time I was engaged in the development of conventional software for Wi
 ## My main projects
 <table>
   <thead>
-    <tr border: none;>
+    <tr>
       <td><b>📘 Project</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>🤝 Forks</b></td>
@@ -148,7 +148,7 @@ For a long time I was engaged in the development of conventional software for Wi
 
 <table>
   <thead>
-    <tr border: none;>
+    <tr>
       <td><b>📘 Project</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>🤝 Forks</b></td>
