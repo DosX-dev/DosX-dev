@@ -152,7 +152,7 @@ For a long time I was engaged in the development of conventional software for Wi
       <td><b>📘 Project</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>🤝 Forks</b></td>
-      <td><b>👨‍💻 Is open</b></td>
+      <td><b>👨‍💻 Description</b></td>
     </tr>
   </thead>
   <tbody>
@@ -160,13 +160,13 @@ For a long time I was engaged in the development of conventional software for Wi
       <td><a href="https://github.com/horsicq/Detect-It-Easy/blob/master/db/PE/__GenericHeuristicAnalysis_By_DosX.7.sg"><b>Heuristic Analysis in DIE</b></a></td>
       <td>-</td>
       <td>-</td>
-      <td>✅</td>
+      <td><b>Detect It Easy</b> heuristic analysis module for PE files. Detects most anomalies or protections/obfuscations/packers. It has significant application in the field of malware analysis.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/DosX-dev/ASM-Guard"><b>ASM Guard</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/DosX-dev/ASM-Guard?style=flat-square&labelColor=343b41"></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/DosX-dev/ASM-Guard?style=flat-square&labelColor=343b41"></td>
-      <td>❌</td>
+      <td>Packer utility for compressing and complicating reversing compiled native code (native files), protecting resources, adding DRM, and packing into an optimized loader. The source code is closed.</td>
     </tr>
     <tr>
 
