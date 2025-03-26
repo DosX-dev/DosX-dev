@@ -176,6 +176,10 @@ For a long time I was engaged in the development of conventional software for Wi
     <td><a href="https://github.com/DosX-dev/js-hooker">🔨 <b>JS-Hooker</b></a></td>
     <td><img src="https://img.shields.io/github/stars/DosX-dev/js-hooker?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90"></td>
     <td><img src="https://img.shields.io/github/forks/DosX-dev/js-hooker?style=flat-square&labelColor=3d3d3d&color=0038c4&label=%F0%9F%8C%B1"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
