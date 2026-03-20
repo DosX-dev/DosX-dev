@@ -122,9 +122,9 @@ For a long time I was engaged in the development of conventional software for Wi
     <td><img src="https://img.shields.io/github/stars/DosX-dev/braux?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90"></td>
     <td><img src="https://img.shields.io/github/forks/DosX-dev/braux?style=flat-square&labelColor=3d3d3d&color=0038c4&label=%F0%9F%8C%B1"></td>
     <td></td>
-    <td><a href="https://github.com/DosX-dev/cpuid-in-C">🖥️ <b>CPUID in C</b></a></td>
-    <td><img src="https://img.shields.io/github/stars/DosX-dev/cpuid-in-C?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90"></td>
-    <td><img src="https://img.shields.io/github/forks/DosX-dev/cpuid-in-C?style=flat-square&labelColor=3d3d3d&color=0038c4&label=%F0%9F%8C%B1"></td>
+    <td><a href="https://github.com/DosX-dev/SafeNova">🔒 <b>SafeNova</b></a></td>
+    <td><img src="https://img.shields.io/github/stars/DosX-dev/SafeNova?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90"></td>
+    <td><img src="https://img.shields.io/github/forks/DosX-dev/SafeNova?style=flat-square&labelColor=3d3d3d&color=0038c4&label=%F0%9F%8C%B1"></td>
   </tr>
 
   <tr>
@@ -140,9 +140,9 @@ For a long time I was engaged in the development of conventional software for Wi
 
   <tr>
     <td></td>
-    <td><a href="https://github.com/DosX-dev/FastTweak">⚡ <b>FastTweak</b></a></td>
-    <td><img src="https://img.shields.io/github/stars/DosX-dev/FastTweak?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90"></td>
-    <td><img src="https://img.shields.io/github/forks/DosX-dev/FastTweak?style=flat-square&labelColor=3d3d3d&color=0038c4&label=%F0%9F%8C%B1"></td>
+    <td><a href="https://github.com/DosX-dev/LiteMark.js">🧩 <b>LiteMark.js</b></a></td>
+    <td><img src="https://img.shields.io/github/stars/DosX-dev/LiteMark.js?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90"></td>
+    <td><img src="https://img.shields.io/github/forks/DosX-dev/LiteMark.js?style=flat-square&labelColor=3d3d3d&color=0038c4&label=%F0%9F%8C%B1"></td>
     <td></td>
     <td><a href="https://github.com/DosX-dev/HTML-Guard">🛡️ <b>HTML Guard</b></a></td>
     <td><img src="https://img.shields.io/github/stars/DosX-dev/HTML-Guard?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90"></td>
@@ -184,9 +184,14 @@ For a long time I was engaged in the development of conventional software for Wi
 
   <tr>
     <td></td>
-    <td><a href="https://github.com/DosX-dev/LiteMark.js">🧩 <b>LiteMark.js</b></a></td>
-    <td><img src="https://img.shields.io/github/stars/DosX-dev/LiteMark.js?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90"></td>
-    <td><img src="https://img.shields.io/github/forks/DosX-dev/LiteMark.js?style=flat-square&labelColor=3d3d3d&color=0038c4&label=%F0%9F%8C%B1"></td>
+    <td><a href="https://github.com/DosX-dev/FastTweak">⚡ <b>FastTweak</b></a></td>
+    <td><img src="https://img.shields.io/github/stars/DosX-dev/FastTweak?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90"></td>
+    <td><img src="https://img.shields.io/github/forks/DosX-dev/FastTweak?style=flat-square&labelColor=3d3d3d&color=0038c4&label=%F0%9F%8C%B1"></td>
+    <td></td>
+    <td><a href="https://github.com/DosX-dev/cpuid-in-C">🖥️ <b>CPUID in C</b></a></td>
+    <td><img src="https://img.shields.io/github/stars/DosX-dev/cpuid-in-C?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90"></td>
+    <td><img src="https://img.shields.io/github/forks/DosX-dev/cpuid-in-C?style=flat-square&labelColor=3d3d3d&color=0038c4&label=%F0%9F%8C%B1"></td>
+
   </tr>
 </table>
 
