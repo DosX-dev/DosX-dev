@@ -8,7 +8,7 @@
 
 <hr>
 
-### Contact me: collab@kay-software.ru | [@DosX_dev](https://DosX_dev.t.me/)
+### Contact me: collab[~at]kay-software.ru | [@DosX_dev](https://DosX_dev.t.me/)
 
 Hi all, I'm **DosX**! 👋 (~white hat [**h**/**cr**]acker)
 For a long time I was engaged in the development of conventional software for Windows. At the moment, I have expanded my skills and am already developing websites, desktop programs, server software and various protections for them. **I love my job! ❤️** You can view my portfolio below and take a first-hand look at each of the publicly released projects.
