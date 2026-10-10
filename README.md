@@ -200,4 +200,5 @@ For a long time I was engaged in the development of conventional software for Wi
 </div>
 
 -   [**Heuristic Analysis in DIE**](https://github.com/horsicq/Detect-It-Easy/blob/master/db/PE/__GenericHeuristicAnalysis_By_DosX.7.sg) — a module for **Detect It Easy** that performs heuristic analysis on PE files. It identifies anomalies, protections, obfuscations, and packers, making it valuable for malware analysis.
+-   [**TinyC-builder**](https://github.com/DosX-dev/TinyC-builder) — one-click builds of the latest TinyCC for Windows, with full headers and automatic releases.
 -   [**ASM Guard**](https://github.com/DosX-dev/ASM-Guard) — a packer utility designed to compress and obfuscate compiled native code. It protects resources, adds DRM, and packages the code into an optimized loader. The source code is proprietary.
